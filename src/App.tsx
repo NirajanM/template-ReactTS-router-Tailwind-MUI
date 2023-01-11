@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 function App() {
 
   return (
-    <div className="App">
+    <div className="App text-blue-700 font-black">
       {/* <Router>
           <Routes>
             <Route index element={} />
